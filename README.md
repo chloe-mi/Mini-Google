@@ -5,7 +5,7 @@ A full-stack search engine, implementing everything from data structures to a br
 <img width="1881" height="931" alt="image" src="https://github.com/user-attachments/assets/b4d0dda8-9fa7-41f2-b685-be712515e10c" />
 
 
-**Also view webpages!**
+**Also view webpages:**
 <img width="1881" height="942" alt="image" src="https://github.com/user-attachments/assets/9b9e5220-6eb8-443d-8d9e-77f18a0091f0" />
 
 ## 👩🏽‍🚀 Demo
@@ -31,7 +31,7 @@ Then, you can:
 - **Security:** cross-site scripting (XSS) escaping, path sanitization, memory leak prevention via Valgrind
 - **Frontend integration:** dynamic search through browser UI, static file serving
 
-## 😶‍🌫️ What I learned
+## 😶‍🌫️ What I Learned
 - How to leverage low-level systems for safe memory practices, data integrity, and concurrency
 - How real-world tools like search engines use indexing, ranking, and disk I/O optimization
 - Why safe memory practices, threading, and protocol parsing are critical in scalable web systems
