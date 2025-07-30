@@ -1,4 +1,4 @@
-# Mini-Google
+# Mini Google
 A full-stack search engine, implementing everything from data structures to a browser-accessible web interface in C and C++. The final product functions like a miniature version of Google: search input on a browser, your query is served dynamically from disk, and results are ranked and returned in milliseconds.
 
 **Search engine in web browser:**
