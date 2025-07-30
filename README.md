@@ -5,7 +5,7 @@ A full-stack search engine, implementing everything from data structures to a br
 <img width="1881" height="931" alt="image" src="https://github.com/user-attachments/assets/b4d0dda8-9fa7-41f2-b685-be712515e10c" />
 
 
-**Also view webpages:**
+**View webpages:**
 <img width="1881" height="942" alt="image" src="https://github.com/user-attachments/assets/9b9e5220-6eb8-443d-8d9e-77f18a0091f0" />
 
 ## 👩🏽‍🚀 Demo
@@ -56,7 +56,7 @@ Crawls text files, builds an inverted index, and enables querying from the comma
   - **CrawlFileTree** crawls a directory
   - **DocTable** maintains mappings between file paths ↔ numeric doc IDs
   - **MemIndex** is an inverted index, which maps words → doc IDs → list of offsets in the document
-- **searchshell** provides a basic CL, which receives a user's queries and returns a list of documents ranked based on query term frequency
+- **searchshell** provides a basic CLI, which receives a user's queries and returns a list of documents ranked based on query term frequency
 ### Persistent disk-based indexing
 Transitions the in-memory structures to disk-backed storage.
 - **WriteIndex** serializes DocTable and MemIndex using chained hash tables
